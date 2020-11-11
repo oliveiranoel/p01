@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">p01</string>
+    <string name="btn_text_singlePlayer">Single Player</string>
+    <string name="btn_text_highscore">Highscore</string>
+    <string name="btn_text_multiplayer">Multiplayer</string>
+    <string name="btn_text_zufallszahl1"></string>
+    <string name="btn_text_zufallszahl2"></string>
+    <string name="btn_text_zufallszahl3"></string>
+    <string name="btn_text_zufallszahl4"></string>
+    <string name="btn_text_zufallszahl5"></string>
+    <string name="btn_text_zufallszahl6"></string>
+    <string name="btn_text_summe"></string>
+    <string name="btn_text_X">X</string>
+    <string name="btn_text_dismiss">Dismiss</string>
+    <string name="btn_text_restart">Restart</string>
+    <string name="btn_text_delete">Delete All</string>
+    <string name="btn_text_Exit">Exit</string>
+    <string name="btn_text_player1">Player 1</string>
+    <string name="btn_text_player2">Player 2</string>
+    <string name="btn_text_winner"></string>
+    <string name="btn_text_manuel">Manual</string>
+    <string name="img_text_twentyone">Twenty One</string>
+    <string name="text_manuel">
+        Dieses Spiel dient für Unterhaltungszwecke.
+        Es hat 6 Buttons, welche jeweils immer mit Zufälligen Zahlen beschrieben werden. Jeder
+        Button kann nur ein mal angeklickt werden. Die Werte der Buttons werden laufend summiert
+        und dem User angezeigt. Ergibt die Summe genau 21 ist die Runde gewonnen und die Buttons
+        werden zurückgesetzt. Ergibt die Summe mehr als 21 ist die Runde ungültig und die Buttons
+        werden ebenfalls zurückgesetzt. Sobald der User 10 Runden gewonnen hat, ist das Spiel
+        beendet und die Zeit wird gestoppt.
+    </string>
+</resources>
